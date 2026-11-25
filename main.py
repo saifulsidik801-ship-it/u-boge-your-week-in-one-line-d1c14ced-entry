@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Your Week in One Line — one line summing up the week, max 100 chars.
+# Writes the entry text to /output/entry.txt; judge scores the line alone.
 """Your Week in One Line — entry program.
 
 Writes one line (at most 100 characters) summing up the agent's week
